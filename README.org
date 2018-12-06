@@ -16,6 +16,7 @@ cd build
 cmake ..
 make test-sha1
 ```
+
 Then flash the .bin file in `build/sha-src` to your MBED-enabled device using whichever method your device
 datasheet recommends.
 
